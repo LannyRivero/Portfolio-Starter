@@ -47,7 +47,7 @@ const Contact = ({ data }) => {
             <fieldset>
               <div>
                 <label htmlFor="contactName">
-                  Name <span className="required">*</span>
+                  Nombre <span className="required">*</span>
                 </label>
                 <input
                   type="text"
@@ -90,7 +90,7 @@ const Contact = ({ data }) => {
 
               <div>
                 <label htmlFor="contactMessage">
-                  Message <span className="required">*</span>
+                  Mensaje <span className="required">*</span>
                 </label>
                 <textarea
                   cols="50"
@@ -119,7 +119,7 @@ const Contact = ({ data }) => {
 
         <aside className="four columns footer-widgets">
           <div className="widget widget_contact">
-            <h4>Address and Phone</h4>
+            <h4>Dirección y Telefono</h4>
             <p className="address">
               {contactName}
               <br />

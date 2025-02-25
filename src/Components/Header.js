@@ -31,32 +31,27 @@ const Header = ({ data }) => {
         <ul id="nav" className="nav">
           <li className="current">
             <a className="smoothscroll" href="#home">
-              Home
+              Inicio
             </a>
           </li>
           <li>
             <a className="smoothscroll" href="#about">
-              About
+              Sobre Mi
             </a>
           </li>
           <li>
             <a className="smoothscroll" href="#resume">
-              Resume
+              Resumen
             </a>
           </li>
           <li>
             <a className="smoothscroll" href="#portfolio">
-              Works
-            </a>
-          </li>
-          <li>
-            <a className="smoothscroll" href="#testimonials">
-              Testimonials
+              Mis Trabajos
             </a>
           </li>
           <li>
             <a className="smoothscroll" href="#contact">
-              Contact
+              Contacto
             </a>
           </li>
         </ul>
