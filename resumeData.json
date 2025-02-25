@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Lanny Rivero",
+    "occupation": "Desarrollador Full Stack con TDD",
+    "description": "🚀 Java, TDD y yo: un bucle inquebrantable.",
+    "image": "profilepic.jpg",
+    "bio": "👋 Hola, soy Lanny Rivero Canino  🚀 Desarrolladora Full Stack | Apasionada del Backend y TDD  Siempre me ha fascinado la tecnología y la programación, por eso estudié Ingeniería Informática. Sin embargo, en mi trayectoria laboral exploré el marketing digital, donde aprendí sobre estrategias, datos y creatividad. Aunque era un mundo interesante, algo me faltaba: la emoción de programar, construir soluciones desde cero y ver cómo cada línea de código cobra vida. Así que decidí volver a mis raíces y enfocarme en el desarrollo Full Stack, especializándome en backend, TDD y arquitectura limpia. Me encanta enfrentar retos técnicos, optimizar procesos y escribir código limpio y bien estructurado. Creo que la calidad del software comienza desde la base, por eso aplico TDD y sigo las mejores prácticas de desarrollo.",
+
+
+    "contactmessage": "🎯 ¿Te apasiona el desarrollo? Hablemos y creemos algo genial juntos.",
+    "email": "lannyrivero288@gmail.com",
+    
+    "address": {   
+      "city": "España", 
+      "state": "Asturias"
+     
+     
+    },
+    "website": "https://github.com/LannyRivero",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lanny-rivero",
+        "className": "fa fa-linkedin"
+      },
+      
+      {
+        "name": "github",
+        "url": "https://github.com/LannyRivero",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": " Dominio en Lenguajes de Programación",
+    "education": [
+      {
+        "school": "Factoria F5",
+        "degree": "Desarrollador Full Stack con especialización",
+        "graduated": "Junio - 2025"
+       
+      },
+      {
+        "school": "Universidad de Las Ciencias Informáticas - La Habana, Cuba",
+        "degree": "Ing Ciencias Informáticas",
+        "graduated": "July 2016"   
+      }
+    ],
+    "work": [
+      {
+        "company": "Desoft",
+        "title": "Espcialista en Ciencias Informáticas",
+        "years": "2008 - 2022",
+        "description": "💡 Desarrollando, aprendiendo y replicando grandes proyectos. ¡El código es mi mundo!"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "85%"
+      },
+      {
+        "name": "Spring Boot",
+        "level": "80%"
+      },
+      {
+        "name": "TDD",
+        "level": "70%"
+      },
+      
+      {
+        "name": "ReactJs",
+        "level": "64%"
+      },
+      
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Web Development",
+        "level": "55%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Jira",
+        "level": "70%"
+      },
+      {
+        "name": "Postman",
+        "level": "40%"
+      }
+     
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Mis Proyectos",
+        "category": "",
+        
+        "url": "https://github.com/LannyRivero"
+      }
+    
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
